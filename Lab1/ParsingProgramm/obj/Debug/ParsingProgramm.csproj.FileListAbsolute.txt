@@ -1,0 +1,7 @@
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\bin\Debug\ParsingProgramm.exe.config
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\bin\Debug\ParsingProgramm.exe
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\bin\Debug\ParsingProgramm.pdb
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\obj\Debug\ParsingProgramm.csprojResolveAssemblyReference.cache
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\obj\Debug\ParsingProgramm.csproj.CoreCompileInputs.cache
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\obj\Debug\ParsingProgramm.exe
+D:\BSUIR\МСиСвИТ\Metrology\Lab1\ParsingProgramm\obj\Debug\ParsingProgramm.pdb
